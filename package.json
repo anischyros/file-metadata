@@ -1,0 +1,24 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp file metadata challenge implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anischyros/file-metadata.git"
+  },
+  "author": "Bob Sutton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anischyros/file-metadata/issues"
+  },
+  "homepage": "https://github.com/anischyros/file-metadata#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "formidable": "^1.1.1",
+    "multer": "^1.3.0"
+  }
+}
